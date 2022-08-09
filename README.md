@@ -1,3 +1,3 @@
 # Research_Sentimental_Analysis
 
-[Research Sentimental Analysis.pdf](https://github.com/AmaanHussain9553/Research_Sentimental_Analysis/files/9293022/Research.Sentimental.Analysis.pdf)
+{google_docs}https://docs.google.com/document/d/e/2PACX-1vR39TxmXK130fKyAepeB-lmroK_iYjkMPPiZdahWirfLO9q7bW13dl_0omniyLtQJAkIyRL5GcXdZUt/pub{/google_docs}
